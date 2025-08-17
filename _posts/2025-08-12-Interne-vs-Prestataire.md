@@ -25,4 +25,4 @@ Mais il lui manque parfois l’**exposition** à d’autres contextes, d’autre
 
 Et vous, comment tirez-vous parti de cette complémentarité dans vos équipes tech ?
 
-hashtag#IT hashtag#Développement hashtag#ProjetIT hashtag#Prestataire hashtag#Expérience hashtag#Collaboration
+#IT #Développement #ProjetIT #Prestataire #Expérience #Collaboration
