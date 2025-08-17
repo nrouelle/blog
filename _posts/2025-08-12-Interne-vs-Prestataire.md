@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interne vs Prestataire en IT : deux visions, un même objectif
+title: Interne vs Prestataire en IT - deux visions, un même objectif
 ---
 
 En IT, les projets avancent vite… et changent tout aussi vite.
