@@ -6,16 +6,16 @@ title: Interne vs Prestataire en IT - deux visions, un même objectif
 En IT, les projets avancent vite… et changent tout aussi vite.
 
 Un **prestataire externe** apporte une richesse souvent sous-estimée :
-✅ des expériences multiples,
-✅ des méthodologies éprouvées ailleurs,
-✅ une capacité d’adaptation à différents SI, frameworks, cultures tech.
+- ✅ des expériences multiples,
+- ✅ des méthodologies éprouvées ailleurs,
+- ✅ une capacité d’adaptation à différents SI, frameworks, cultures tech.
 
 Il a vu des projets réussir… et d’autres échouer. Il sait ce qui marche, mais surtout **pourquoi ça ne marche pas** parfois. Ce **recul** est précieux.
 
 En face, un **collaborateur interne** a une connaissance fine de :
-🔍 l’historique technique,
-🔍 les spécificités métiers,
-🔍 les interactions humaines.
+- 🔍 l’historique technique,
+- 🔍 les spécificités métiers,
+- 🔍 les interactions humaines.
 
 Mais il lui manque parfois l’**exposition** à d’autres contextes, d’autres solutions, d’autres contraintes.
 
